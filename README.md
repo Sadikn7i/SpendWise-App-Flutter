@@ -5,7 +5,7 @@ It features dynamic UI/UX, category filters, statistics, and smooth animations t
 
 ---
 
-## ✨ Features
+## Features
 
 - Dark/Light theme toggle
 - Category filter chips and color-coded icons
@@ -19,7 +19,7 @@ It features dynamic UI/UX, category filters, statistics, and smooth animations t
 
 ---
 
-## 📱 Demo
+##  Demo
 
 <div align="center">
   <img src="https://github.com/Sadikn7i/SpendWise-App-Flutter/raw/master/APP1.png" alt="SpendWise Screenshot 1" width="320"/>
@@ -28,7 +28,7 @@ It features dynamic UI/UX, category filters, statistics, and smooth animations t
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 1. **Clone the repo:**
 git clone https://github.com/Sadikn7i/SpendWise-App-Flutter.git
@@ -44,14 +44,14 @@ Select your device (Android, iOS, Windows, or Web).
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - [Flutter](https://flutter.dev/) (Material 3)
 - Dart
 
 ---
 
-## 📩 Contact
+## Contact
 
 - 📧 Email: [spiritx98@gmail.com](mailto:spiritx98@gmail.com)
 - 🐦 Twitter/X: [@sadikadendirir](https://x.com/sadikadendirir)
