@@ -1,4 +1,4 @@
-
+# SpendWise - Expense Tracker App
 
 SpendWise is a powerful and beautifully designed expense tracking app built with Flutter.  
 It features dynamic UI/UX, category filters, statistics, and smooth animations to make managing personal finance easy and enjoyable.
